@@ -1,5 +1,5 @@
 .data
-inputText: .asciiz "Enter number of Natural numbers you want to calculate: "
+inputText: .asciiz "Enter Natural number: "
 
 .text
 li $v0, 4
